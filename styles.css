@@ -1,0 +1,49 @@
+* {
+    background-color: olivedrab;
+}
+
+button {
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: white;
+    color: brown;
+    font-weight: 600;
+}
+
+header {
+    text-align: center;
+}
+
+footer {
+    background-color: olive;
+    font-size: 22px;
+    color: white;
+    font-weight: 800;
+    text-align: center;
+}
+
+h1::first-letter {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: brown;
+    font-weight: 900;
+}
+
+#input-box {
+    font-size: x-large;
+}
+
+#section-1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    background-color: olive;
+    color: whitesmoke;
+}
+
+.nav-link{
+    font-size: 26px;
+    font-weight: 800;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
